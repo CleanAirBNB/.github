@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a todos 👋
 
 <!--
 
@@ -12,5 +12,4 @@
 -->
 
 
-[
 [Bienvenidos a nuestra wiki ](https://github.com/CleanAirBNB/.github/wiki)
